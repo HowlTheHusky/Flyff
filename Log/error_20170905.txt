@@ -1,0 +1,18 @@
+2017/ 9/ 5   06:32:27   g_pPlayer is ready
+
+2017/ 9/ 5   06:32:28   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 5   06:32:28   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 5   06:33:32   g_pPlayer is ready
+
+2017/ 9/ 5   06:33:32   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 5   06:33:32   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 5   06:36:37   g_pPlayer is ready
+
+2017/ 9/ 5   06:36:38   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 5   06:36:38   CWndTaskBar::SetTaskBarTexture : Max 581
+

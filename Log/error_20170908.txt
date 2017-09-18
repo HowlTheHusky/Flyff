@@ -1,0 +1,256 @@
+2017/ 9/ 8   10:51:47   g_pPlayer is ready
+
+2017/ 9/ 8   10:51:48   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   10:51:48   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   10:59:09   g_pPlayer is ready
+
+2017/ 9/ 8   10:59:10   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   10:59:10   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   11:01:34   DPClient::OnReplace BEGIN
+
+2017/ 9/ 8   11:01:34   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 8   11:01:34   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   11:01:34   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 8   11:01:34   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   11:01:34   DPClient::OnReplace END OK
+
+2017/ 9/ 8   11:01:34   g_pPlayer is ready
+
+2017/ 9/ 8   13:53:12   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 8   13:53:12   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   13:53:12   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 8   13:53:12   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   13:53:13   g_pPlayer is ready
+
+2017/ 9/ 8   13:53:18   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   13:53:18   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   13:53:24   DPClient::OnReplace BEGIN
+
+2017/ 9/ 8   13:53:27   DPClient::OnReplace END OK
+
+2017/ 9/ 8   13:53:27   g_pPlayer is ready
+
+2017/ 9/ 8   13:55:04   g_pPlayer is ready
+
+2017/ 9/ 8   13:55:05   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   13:55:05   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   13:55:08   Sep  4 2017 20:35:56 1 rCnt=1
+Neuz.exe caused an EXCEPTION_ACCESS_VIOLATION in module Neuz.exe at 0023:00522915
+
+ - Registers
+
+EAX=00000002  EBX=000003F9  ECX=00000000  EDX=00000002  ESI=00000003
+EDI=108924C0  EBP=04794117  ESP=0018B52C  EIP=00522915  FLG=00210202
+CS=0023   DS=002B  SS=002B  ES=002B   FS=0053  GS=002B
+
+0023:00522915 Neuz.exe
+
+2017/ 9/ 8   17:25:11   g_pPlayer is ready
+
+2017/ 9/ 8   17:25:12   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   17:25:12   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   17:27:59   g_pPlayer is ready
+
+2017/ 9/ 8   17:27:59   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   17:27:59   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   17:31:46   g_pPlayer is ready
+
+2017/ 9/ 8   17:31:46   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   17:31:46   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   17:35:05   g_pPlayer is ready
+
+2017/ 9/ 8   17:35:06   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   17:35:06   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   17:50:18   Sep  4 2017 20:35:56 1 rCnt=1
+Neuz.exe caused an EXCEPTION_ACCESS_VIOLATION in module Neuz.exe at 0023:006C60B9
+
+ - Registers
+
+EAX=00000000  EBX=00000000  ECX=0254BB20  EDX=107EB4C0  ESI=00000001
+EDI=0254BB20  EBP=0A74DDF8  ESP=0018FB98  EIP=006C60B9  FLG=00210246
+CS=0023   DS=002B  SS=002B  ES=002B   FS=0053  GS=002B
+
+0023:006C60B9 Neuz.exe
+
+2017/ 9/ 8   17:50:31   g_pPlayer is ready
+
+2017/ 9/ 8   17:50:31   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   17:50:31   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   17:54:28   DPClient::OnReplace BEGIN
+
+2017/ 9/ 8   17:54:29   DPClient::OnReplace END OK
+
+2017/ 9/ 8   17:54:29   g_pPlayer is ready
+
+2017/ 9/ 8   17:54:55   DPClient::OnReplace BEGIN
+
+2017/ 9/ 8   17:54:55   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 8   17:54:55   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   17:54:55   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 8   17:54:55   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   17:54:55   DPClient::OnReplace END OK
+
+2017/ 9/ 8   17:54:55   g_pPlayer is ready
+
+2017/ 9/ 8   17:55:02   DPClient::OnReplace BEGIN
+
+2017/ 9/ 8   17:55:02   DPClient::OnReplace END OK
+
+2017/ 9/ 8   17:55:02   g_pPlayer is ready
+
+2017/ 9/ 8   18:00:43   g_pPlayer is ready
+
+2017/ 9/ 8   18:00:44   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   18:00:44   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   18:00:46   DPClient::OnReplace BEGIN
+
+2017/ 9/ 8   18:00:47   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 8   18:00:47   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:00:47   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 8   18:00:47   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:00:47   DPClient::OnReplace END OK
+
+2017/ 9/ 8   18:00:47   g_pPlayer is ready
+
+2017/ 9/ 8   18:31:19   FileName propQuest.inc(586) : QUEST_TESTQUEST Not Found. : QUEST_TESTQUEST
+{
+	SetTitle
+	(
+		IDS_PROPQUEST_INC_002817
+	);
+	setting
+	
+
+2017/ 9/ 8   18:31:19   propQuest.inc(601) SetEndRemoveItem Idx 값 범위 초과(0~3)
+
+2017/ 9/ 8   18:31:25   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 8   18:31:25   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:31:25   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 8   18:31:25   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:31:25   g_pPlayer is ready
+
+2017/ 9/ 8   18:31:26   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   18:31:26   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   18:36:43   FileName propQuest.inc(586) : QUEST_TESTQUEST Not Found. : QUEST_TESTQUEST
+{
+	SetTitle
+	(
+		IDS_PROPQUEST_INC_002817
+	);
+	setting
+	
+
+2017/ 9/ 8   18:36:43   propQuest.inc(601) SetEndRemoveItem Idx 값 범위 초과(0~3)
+
+2017/ 9/ 8   18:36:47   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 8   18:36:47   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:36:47   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 8   18:36:47   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:36:47   g_pPlayer is ready
+
+2017/ 9/ 8   18:36:48   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   18:36:48   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   18:38:16   FileName propQuest.inc(586) : QUEST_TESTQUEST Not Found. : QUEST_TESTQUEST
+{
+	SetTitle
+	(
+		IDS_PROPQUEST_INC_002817
+	);
+	setting
+	
+
+2017/ 9/ 8   18:38:16   propQuest.inc(601) SetEndRemoveItem Idx 값 범위 초과(0~3)
+
+2017/ 9/ 8   18:38:21   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 8   18:38:21   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:38:21   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 8   18:38:21   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:38:21   g_pPlayer is ready
+
+2017/ 9/ 8   18:38:22   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   18:38:22   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   18:41:12   FileName propQuest.inc(586) : QUEST_TESTQUEST Not Found. : QUEST_TESTQUEST
+{
+	SetTitle
+	(
+		IDS_PROPQUEST_INC_002817
+	);
+	setting
+	
+
+2017/ 9/ 8   18:41:12   propQuest.inc(601) SetEndRemoveItem Idx 값 범위 초과(0~3)
+
+2017/ 9/ 8   18:41:17   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 8   18:41:17   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:41:17   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 8   18:41:17   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 8   18:41:17   g_pPlayer is ready
+
+2017/ 9/ 8   18:41:18   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 8   18:41:18   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 8   18:41:35   DPClient::OnReplace BEGIN
+
+2017/ 9/ 8   18:41:36   DPClient::OnReplace END OK
+
+2017/ 9/ 8   18:41:36   g_pPlayer is ready
+

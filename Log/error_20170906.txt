@@ -1,0 +1,72 @@
+2017/ 9/ 6   16:56:17   g_pPlayer is ready
+
+2017/ 9/ 6   16:56:20   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   16:56:20   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   17:04:02   g_pPlayer is ready
+
+2017/ 9/ 6   17:04:02   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   17:04:02   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   18:34:09   g_pPlayer is ready
+
+2017/ 9/ 6   18:34:10   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   18:34:10   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   18:37:37   g_pPlayer is ready
+
+2017/ 9/ 6   18:37:37   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   18:37:37   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   18:38:32   g_pPlayer is ready
+
+2017/ 9/ 6   18:38:32   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   18:38:32   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   18:38:36   DPClient::OnReplace BEGIN
+
+2017/ 9/ 6   18:38:37   DPClient::OnReplace END OK
+
+2017/ 9/ 6   18:38:37   g_pPlayer is ready
+
+2017/ 9/ 6   18:38:39   DPClient::OnReplace BEGIN
+
+2017/ 9/ 6   18:38:40   DPClient::OnReplace END OK
+
+2017/ 9/ 6   18:38:40   g_pPlayer is ready
+
+2017/ 9/ 6   18:39:26   g_pPlayer is ready
+
+2017/ 9/ 6   18:39:27   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   18:39:27   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   18:45:00   g_pPlayer is ready
+
+2017/ 9/ 6   18:45:00   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   18:45:00   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   18:51:56   g_pPlayer is ready
+
+2017/ 9/ 6   18:51:56   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   18:51:56   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   18:54:41   g_pPlayer is ready
+
+2017/ 9/ 6   18:54:42   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   18:54:42   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 6   18:59:09   g_pPlayer is ready
+
+2017/ 9/ 6   18:59:10   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 6   18:59:10   CWndTaskBar::SetTaskBarTexture : Max 581
+

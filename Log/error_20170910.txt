@@ -1,0 +1,117 @@
+2017/ 9/10   11:43:11   FileName propQuest.inc(587) : QUEST_TESTQUEST Not Found. : QUEST_TESTQUEST
+{
+	SetTitle
+	(
+		IDS_PROPQUEST_INC_002817
+	);
+	
+	setting
+
+2017/ 9/10   11:43:15   g_pPlayer is ready
+
+2017/ 9/10   11:43:16   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   11:43:16   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   11:45:26   g_pPlayer is ready
+
+2017/ 9/10   11:45:27   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   11:45:27   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   11:47:05   g_pPlayer is ready
+
+2017/ 9/10   11:47:05   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   11:47:05   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   11:47:40   DPClient::OnReplace BEGIN
+
+2017/ 9/10   11:47:40   DPClient::OnReplace END OK
+
+2017/ 9/10   11:47:40   g_pPlayer is ready
+
+2017/ 9/10   11:47:53   DPClient::OnReplace BEGIN
+
+2017/ 9/10   11:47:54   DPClient::OnReplace END OK
+
+2017/ 9/10   11:47:54   g_pPlayer is ready
+
+2017/ 9/10   11:53:02   g_pPlayer is ready
+
+2017/ 9/10   11:53:03   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   11:53:03   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   11:54:51   g_pPlayer is ready
+
+2017/ 9/10   11:54:52   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   11:54:52   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   11:57:09   g_pPlayer is ready
+
+2017/ 9/10   11:57:10   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   11:57:10   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   11:59:41   DPClient::OnReplace BEGIN
+
+2017/ 9/10   11:59:42   DPClient::OnReplace END OK
+
+2017/ 9/10   11:59:42   g_pPlayer is ready
+
+2017/ 9/10   12:00:21   DPClient::OnReplace BEGIN
+
+2017/ 9/10   12:00:22   DPClient::OnReplace END OK
+
+2017/ 9/10   12:00:22   g_pPlayer is ready
+
+2017/ 9/10   12:02:43   DPClient::OnReplace BEGIN
+
+2017/ 9/10   12:02:44   DPClient::OnReplace END OK
+
+2017/ 9/10   12:02:44   g_pPlayer is ready
+
+2017/ 9/10   12:04:18   g_pPlayer is ready
+
+2017/ 9/10   12:04:18   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   12:04:18   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   16:20:46   g_pPlayer is ready
+
+2017/ 9/10   16:20:46   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   16:20:46   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   16:24:17   g_pPlayer is ready
+
+2017/ 9/10   16:24:17   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   16:24:17   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   16:25:53   g_pPlayer is ready
+
+2017/ 9/10   16:25:54   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   16:25:54   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   16:43:02   g_pPlayer is ready
+
+2017/ 9/10   16:43:03   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   16:43:03   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   16:51:48   g_pPlayer is ready
+
+2017/ 9/10   16:51:49   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   16:51:49   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/10   16:56:07   g_pPlayer is ready
+
+2017/ 9/10   16:56:07   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/10   16:56:07   CWndTaskBar::SetTaskBarTexture : Max 581
+

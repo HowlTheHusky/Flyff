@@ -1,0 +1,152 @@
+2017/ 9/ 4   12:40:30   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 4   12:40:30   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 4   12:40:30   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 4   12:40:30   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 4   12:40:30   g_pPlayer is ready
+
+2017/ 9/ 4   12:40:31   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   12:40:31   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   12:40:54   DPClient::OnReplace BEGIN
+
+2017/ 9/ 4   12:40:55   DPClient::OnReplace END OK
+
+2017/ 9/ 4   12:40:55   g_pPlayer is ready
+
+2017/ 9/ 4   12:41:17   DPClient::OnReplace BEGIN
+
+2017/ 9/ 4   12:41:17   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 4   12:41:17   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 4   12:41:17   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 4   12:41:17   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 4   12:41:17   DPClient::OnReplace END OK
+
+2017/ 9/ 4   12:41:17   g_pPlayer is ready
+
+2017/ 9/ 4   12:44:07   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 4   12:44:07   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 4   12:44:07   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 4   12:44:07   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 4   12:44:08   g_pPlayer is ready
+
+2017/ 9/ 4   12:44:08   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   12:44:08   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   12:44:10   DPClient::OnReplace BEGIN
+
+2017/ 9/ 4   12:44:10   DPClient::OnReplace END OK
+
+2017/ 9/ 4   12:44:10   g_pPlayer is ready
+
+2017/ 9/ 4   12:46:54   GetModelElem - out of range: type=0, size=1220, index=1236
+
+2017/ 9/ 4   12:46:54   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1236 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 4   12:46:54   GetModelElem - out of range: type=0, size=1220, index=1225
+
+2017/ 9/ 4   12:46:54   CModelMng::loadModel mdlObj/mdlDyna 에 objtype=0 index=1225 bpart=0 의 정보가 없군여.
+
+2017/ 9/ 4   12:46:54   g_pPlayer is ready
+
+2017/ 9/ 4   12:46:55   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   12:46:55   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   12:47:05   DPClient::OnReplace BEGIN
+
+2017/ 9/ 4   12:47:06   DPClient::OnReplace END OK
+
+2017/ 9/ 4   12:47:06   g_pPlayer is ready
+
+2017/ 9/ 4   12:52:12   g_pPlayer is ready
+
+2017/ 9/ 4   12:52:13   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   12:52:13   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   15:30:51   g_pPlayer is ready
+
+2017/ 9/ 4   15:30:51   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   15:30:51   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   15:31:43   DPClient::OnReplace BEGIN
+
+2017/ 9/ 4   15:31:44   DPClient::OnReplace END OK
+
+2017/ 9/ 4   15:31:44   g_pPlayer is ready
+
+2017/ 9/ 4   15:33:20   g_pPlayer is ready
+
+2017/ 9/ 4   15:33:21   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   15:33:21   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   15:36:50   g_pPlayer is ready
+
+2017/ 9/ 4   15:36:51   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   15:36:51   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   15:37:03   g_pPlayer is ready
+
+2017/ 9/ 4   15:37:04   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   15:37:04   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   15:38:03   g_pPlayer is ready
+
+2017/ 9/ 4   15:38:03   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   15:38:03   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   15:40:26   g_pPlayer is ready
+
+2017/ 9/ 4   15:40:27   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   15:40:27   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   15:47:54   g_pPlayer is ready
+
+2017/ 9/ 4   15:47:55   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   15:47:55   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   16:22:40   g_pPlayer is ready
+
+2017/ 9/ 4   16:22:40   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   16:22:40   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   16:24:56   g_pPlayer is ready
+
+2017/ 9/ 4   16:24:56   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   16:24:56   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   16:26:57   g_pPlayer is ready
+
+2017/ 9/ 4   16:26:58   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   16:26:58   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/ 4   16:33:34   g_pPlayer is ready
+
+2017/ 9/ 4   16:33:35   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/ 4   16:33:35   CWndTaskBar::SetTaskBarTexture : Max 581
+
