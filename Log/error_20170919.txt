@@ -1,0 +1,79 @@
+2017/ 9/19   16:33:13   g_pPlayer is ready
+
+2017/ 9/19   16:33:20   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   16:33:20   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   16:38:53   g_pPlayer is ready
+
+2017/ 9/19   16:38:54   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   16:38:54   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   16:43:18   g_pPlayer is ready
+
+2017/ 9/19   16:43:19   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   16:43:19   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   16:45:13   CItemBase::SetTexture GetProp() NULL Return 20241
+
+2017/ 9/19   16:45:13   Sep 18 2017 22:36:03 1 rCnt=1
+Neuz.exe caused an EXCEPTION_ACCESS_VIOLATION in module Neuz.exe at 0023:0064FBDE
+
+ - Registers
+
+EAX=0018B854  EBX=00000000  ECX=0018B85C  EDX=00000284  ESI=0A0BF1CC
+EDI=00000000  EBP=00000004  ESP=0018B84C  EIP=0064FBDE  FLG=00210206
+CS=0023   DS=002B  SS=002B  ES=002B   FS=0053  GS=002B
+
+0023:0064FBDE Neuz.exe
+
+2017/ 9/19   16:46:46   g_pPlayer is ready
+
+2017/ 9/19   16:46:47   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   16:46:47   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   16:49:10   g_pPlayer is ready
+
+2017/ 9/19   16:49:11   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   16:49:11   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   16:52:16   g_pPlayer is ready
+
+2017/ 9/19   16:52:17   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   16:52:17   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   16:52:19   DPClient::OnReplace BEGIN
+
+2017/ 9/19   16:52:25   DPClient::OnReplace END OK
+
+2017/ 9/19   16:52:25   g_pPlayer is ready
+
+2017/ 9/19   16:55:07   g_pPlayer is ready
+
+2017/ 9/19   16:55:08   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   16:55:08   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   16:56:50   g_pPlayer is ready
+
+2017/ 9/19   16:56:51   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   16:56:51   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   17:05:38   g_pPlayer is ready
+
+2017/ 9/19   17:05:39   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   17:05:39   CWndTaskBar::SetTaskBarTexture : Max 581
+
+2017/ 9/19   17:08:46   g_pPlayer is ready
+
+2017/ 9/19   17:08:46   CWndTaskBar::SetTaskBarTexture : Max 2010
+
+2017/ 9/19   17:08:46   CWndTaskBar::SetTaskBarTexture : Max 581
+
